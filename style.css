@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f9f9f9;
+  padding: 20px;
+}
+
+#game {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 90%;
+  max-width: 700px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#qhsx-options button {
+  display: block;
+  margin: 5px auto;
+  width: 80%;
+}
